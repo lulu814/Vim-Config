@@ -5,3 +5,4 @@
 4. To installvim components, type *:GoInstallBinaries* in your vim editor and hit Enter
 5. To quit from vim editor, type :q
 
+Debuggin Vim: https://www.dannyadam.com/blog/2019/05/debugging-in-vim/
